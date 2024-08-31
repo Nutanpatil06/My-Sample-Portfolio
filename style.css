@@ -1,0 +1,26 @@
+body{
+    background: #F7EFE5;
+    color: #674188;
+    text-align: center;
+    text-transform: uppercase;
+    size: 2opx;
+}
+
+#movie-ranking{
+    color: #674188;
+    size: 1rem;
+}
+
+#birthday-invite{
+    color: #674188;
+    size: 1rem;
+}
+
+.extra-info{
+    color: #674188;
+    size: 1rem;
+}
+
+.image{
+    border: #E2BFD9 solid 5px;
+}
